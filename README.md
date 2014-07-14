@@ -67,6 +67,10 @@ For example:
       passport.authenticate('stripe', { scope: 'read_write' }));
 ```
 
+## Examples
+
+Scotch.io has provided a [comprehensive tutorial](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local) using passport plugins.
+
 ## Credits
 
   - [Matthew Conlen](http://github.com/mathisonian)
